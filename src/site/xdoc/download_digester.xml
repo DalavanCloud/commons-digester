@@ -91,7 +91,7 @@ limitations under the License.
         The <a href="http://www.apache.org/dist/commons/KEYS">KEYS</a>
         link links to the code signing keys used to sign the product.
         The <code>PGP</code> link downloads the OpenPGP compatible signature from our main site.
-        The <code>MD5</code> link downloads the checksum from the main site.
+        The <code>SHA256</code> link downloads the checksum from the main site.
       </p>
     </subsection>
     </section>
@@ -100,12 +100,12 @@ limitations under the License.
         <table>
           <tr>
               <td><a href="[preferred]/commons/digester/binaries/commons-digester3-parent-3.2-bin.tar.gz">commons-digester3-parent-3.2-bin.tar.gz</a></td>
-              <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester3-parent-3.2-bin.tar.gz.md5">md5</a></td>
+              <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester3-parent-3.2-bin.tar.gz.sha256">sha256</a></td>
               <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester3-parent-3.2-bin.tar.gz.asc">pgp</a></td>
           </tr>
           <tr>
               <td><a href="[preferred]/commons/digester/binaries/commons-digester3-parent-3.2-bin.zip">commons-digester3-parent-3.2-bin.zip</a></td>
-              <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester3-parent-3.2-bin.zip.md5">md5</a></td>
+              <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester3-parent-3.2-bin.zip.sha256">sha256</a></td>
               <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester3-parent-3.2-bin.zip.asc">pgp</a></td>
           </tr>
         </table>
@@ -114,12 +114,12 @@ limitations under the License.
         <table>
           <tr>
               <td><a href="[preferred]/commons/digester/source/commons-digester3-parent-3.2-src.tar.gz">commons-digester3-parent-3.2-src.tar.gz</a></td>
-              <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester3-parent-3.2-src.tar.gz.md5">md5</a></td>
+              <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester3-parent-3.2-src.tar.gz.sha256">sha256</a></td>
               <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester3-parent-3.2-src.tar.gz.asc">pgp</a></td>
           </tr>
           <tr>
               <td><a href="[preferred]/commons/digester/source/commons-digester3-parent-3.2-src.zip">commons-digester3-parent-3.2-src.zip</a></td>
-              <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester3-parent-3.2-src.zip.md5">md5</a></td>
+              <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester3-parent-3.2-src.zip.sha256">sha256</a></td>
               <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester3-parent-3.2-src.zip.asc">pgp</a></td>
           </tr>
         </table>
@@ -130,12 +130,12 @@ limitations under the License.
         <table>
           <tr>
               <td><a href="[preferred]/commons/digester/binaries/commons-digester-2.1-bin.tar.gz">commons-digester-2.1-bin.tar.gz</a></td>
-              <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester-2.1-bin.tar.gz.md5">md5</a></td>
+              <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester-2.1-bin.tar.gz.sha256">sha256</a></td>
               <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester-2.1-bin.tar.gz.asc">pgp</a></td>
           </tr>
           <tr>
               <td><a href="[preferred]/commons/digester/binaries/commons-digester-2.1-bin.zip">commons-digester-2.1-bin.zip</a></td>
-              <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester-2.1-bin.zip.md5">md5</a></td>
+              <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester-2.1-bin.zip.sha256">sha256</a></td>
               <td><a href="http://www.apache.org/dist/commons/digester/binaries/commons-digester-2.1-bin.zip.asc">pgp</a></td>
           </tr>
         </table>
@@ -144,12 +144,12 @@ limitations under the License.
         <table>
           <tr>
               <td><a href="[preferred]/commons/digester/source/commons-digester-2.1-src.tar.gz">commons-digester-2.1-src.tar.gz</a></td>
-              <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester-2.1-src.tar.gz.md5">md5</a></td>
+              <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester-2.1-src.tar.gz.sha256">sha256</a></td>
               <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester-2.1-src.tar.gz.asc">pgp</a></td>
           </tr>
           <tr>
               <td><a href="[preferred]/commons/digester/source/commons-digester-2.1-src.zip">commons-digester-2.1-src.zip</a></td>
-              <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester-2.1-src.zip.md5">md5</a></td>
+              <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester-2.1-src.zip.sha256">sha256</a></td>
               <td><a href="http://www.apache.org/dist/commons/digester/source/commons-digester-2.1-src.zip.asc">pgp</a></td>
           </tr>
         </table>
